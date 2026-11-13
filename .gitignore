@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+**/.venv/
+py_env/
+venv/
+env/
+
+# Node.js dependencies
+node_modules/
+**/node_modules/
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
