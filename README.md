@@ -111,6 +111,3 @@ github-developer-assistant/
 - Expand MCP client integration and documentation.
 - Add automated tests for the exposed MCP tools.
 
-## Project Repository
-
-[GitHub Developer Assistant](https://github.com/teja1412/github-developer-assistant)
